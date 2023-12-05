@@ -1,0 +1,21 @@
+2023-12-04 * "小区" "停车费"
+  Assets:AliPay                              -100.0 CNY
+  Expenses:Transport:Parking
+
+2023-12-02 * "餐馆" "晚餐"
+  Assets:Bank:CMBC                           -320.0 CNY
+  Expenses:Food:Dinner
+
+
+2023-12-02 * "" "午饭"
+  Assets:Bank:CMBC                            -57.00 CNY
+  Expenses:Food
+
+
+2023-12-02 * "" "早饭"
+  Assets:Bank:CMBC                             -5.5 CNY
+  Expenses:Food
+
+2023-12-07 * "小刘鸭" "工资"
+  Assets:Bank:CMBC                           10000.0 CNY
+  Income:Salary                             -10000.0 CNY

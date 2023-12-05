@@ -1,0 +1,11 @@
+; 吃
+2023-04-04 open Expenses:Food
+2023-04-04 open Expenses:Food:Breakfast
+2023-04-04 open Expenses:Food:Launch
+2023-04-04 open Expenses:Food:Dinner
+2023-04-04 open Expenses:Food:Groceries
+2023-04-04 open Expenses:Transport:Parking
+
+; 住房
+2023-04-04 open Expenses:Living:Rent
+2023-04-04 open Expenses:Living:Utility

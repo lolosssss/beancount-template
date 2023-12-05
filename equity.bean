@@ -1,0 +1,4 @@
+2023-04-04 open Equity:Opening-Balances
+
+2023-04-04 pad Assets:Bank:CMBC Equity:Opening-Balances
+2023-04-05 balance Assets:Bank:CMBC         12345.00 CNY

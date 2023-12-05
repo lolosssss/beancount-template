@@ -1,0 +1,12 @@
+;; Main file
+option "title" "My Ledger"
+option "operating_currency" "CNY"
+option "operating_currency" "USD"
+
+include "assets.bean"
+include "equity.bean"
+include "expenses.bean"
+include "income.bean"
+include "liabilities.bean"
+
+include "2023/jan.bean"

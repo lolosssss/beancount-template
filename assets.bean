@@ -1,0 +1,10 @@
+; 资产账户
+2023-04-04 open Assets:Bank:CMBC CNY ; 招商银行
+2023-04-04 open Assets:Bank:ICBC CNY ; 中国工商银行
+2023-04-04 open Assets:Bank:CCB CNY ; 中信银行
+2023-04-04 open Assets:Bank:Tailong CNY ; 泰隆银行
+2023-04-04 open Assets:AliPay CNY ; 支付宝
+2023-04-04 open Assets:WechatPay CNY ; 微信支付
+2023-04-04 open Assets:Coupon CNY ; 优惠券
+2023-04-04 open Assets:Pointer CNY ; 积分
+2023-04-04 open Assets:Cash CNY ; 现金

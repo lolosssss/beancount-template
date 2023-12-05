@@ -1,0 +1,12 @@
+; 信用卡
+2023-04-04 open Liabilities:CreditCard:CMBC:CN CNY
+2023-04-04 open Liabilities:CreditCard:CMBC:ALL USD
+
+; 花呗
+2023-04-04 open Liabilities:Alipay:Huabei CNY
+
+; 房贷
+2023-04-04 open Liabilities:House:Mortgage CNY
+
+; 车贷
+2023-04-04 open Liabilities:Car:Mortgage CNY
