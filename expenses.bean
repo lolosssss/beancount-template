@@ -7,5 +7,6 @@
 2023-04-04 open Expenses:Transport:Parking
 
 ; 住房
-2023-04-04 open Expenses:Living:Rent
-2023-04-04 open Expenses:Living:Utility
+2023-04-04 open Expenses:House:Rent
+2023-04-04 open Expenses:House:Utility
+2023-04-04 open Expenses:House:Other
