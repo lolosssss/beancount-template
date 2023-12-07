@@ -11,6 +11,10 @@ A starter template for beancount
 
 `pip3 install beancount fava`
 
+## Convert to Sqlite
+
+`bean-sql main.bean ledger.db`
+
 ## Structure
 
 ```
